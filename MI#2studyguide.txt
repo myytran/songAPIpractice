@@ -1,0 +1,49 @@
+JOB DESCRIPTION
+
+//Seattle Metropolitans//
+Position: Junior Javascript Developer
+Location: Seattle, WA
+Requirements:
+Proficient in all things front-end related, multi-platform and multi-browsers
+Excellent JavaScript, CSS and HTML
+Must have excellent understanding of web concepts and fundamentals
+Ability to work with the UX, Server team and PMs
+Good knowledge of backend API’s
+Desired:
+Experience working in a fast paced environment with tight deadlines would be highly desired
+Working in a dev/test environment before production
+
+
+
+
+
+
+
+
+
+
+This mock interview covers both the concepts in Command Line, Git, and GitHub Basics and Asynchronous Web Apps. Be sure to study both curricula before scheduling your interview. The following practice questions will help guide your studying.
+
+Practice interview questions
+Work through the practice questions below during your next mentor session.
+
+Where do you see yourself in 5 years? 
+
+What do you enjoy about working on a team?
+
+We use Git for collaboration on our teams here. What can you tell me about your experience with Git? What projects have you used Git with, and how did it help you?
+
+-- Git is a popular version control system that allows for saving of changes in projects as well as updating those changes within a collaborative setting. [Github is a popular service that hosts Git and allows for saving and sharing of Git repositories.] I have used Git to manage, track and share my projects in the past. Using Git, it allows me to create repositories and track their changes to ensure that I get the most out of my productivity. 
+
+What would you do to check if a web page is accessible? To check for accesibitly, I would use a Chrome extension called AXE accessibility for check for proper semantic screen accessible contemt
+
+
+When using Git, what is a merge conflict and how do you handle it?
+
+Let's look at your app. Walk me through the API you used and how you're getting data from it.
+
+
+You've just been given a design and wireframe for a new web page. Share your screen and show me how you would go about setting this project up with Git and GitHub.
+
+
+`
